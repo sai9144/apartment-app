@@ -160,4 +160,4 @@ MIT — free for personal and commercial use.
 
 - **Hosting Guide**: `docs/HOSTING.md`
 - **Issues**: GitHub Issues
-- **MyGate Reference**: This app mimics core MyGate flows (visitor management, complaints, notices, polls)
+- **creatoridea**: This app mimics core flows (visitor management, complaints, notices, polls)
