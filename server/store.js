@@ -82,9 +82,9 @@ async function writeSettings(obj) {
 
 function defaultSettings() {
   return {
-    societyName: 'Green Valley Apartments',
-    address: '123 Green Valley Road, Sample City',
-    contactEmail: 'admin@greenvalley.example',
+    societyName: 'Vijayalakshmi Heights',
+    address: '123 Vijayalakshmi Heights Road, Sample City',
+    contactEmail: 'admin@vijayalakshmiheights.example',
     contactPhone: '+91-98765-43210',
     gateHours: '06:00 - 23:00',
     maintenancePhone: '+91-98765-43299',
