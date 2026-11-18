@@ -1,4 +1,4 @@
-# Green Valley Apartments — Society Management PWA
+# Vijaya Lakshmi Apartments — Society Management PWA
 
 A MyGate-inspired apartment society management app built as a **Progressive Web App** (works on PC, Android, iOS) with a Node.js/Express backend.
 
