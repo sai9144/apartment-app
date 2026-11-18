@@ -1,0 +1,17 @@
+[
+  {
+    "id": "vis_910bba903516",
+    "apartment": "A-102",
+    "residentId": "usr_a8f8cc175fdf",
+    "visitorName": "John Visitor",
+    "visitorPhone": "9998887777",
+    "purpose": "Delivery",
+    "vehicleNumber": "KA01AB1234",
+    "expectedArrival": "2026-11-18T20:51:12.177Z",
+    "durationMins": 60,
+    "status": "approved",
+    "guardNotes": "Package delivered",
+    "createdAt": "2026-11-18T20:51:12.177Z",
+    "updatedAt": "2026-11-18T20:51:33.694Z"
+  }
+]

@@ -4,7 +4,7 @@ server/node_modules/
 
 # Data files (auto-generated)
 server/data/
-*.json
+server/data/*.json
 
 # Logs
 *.log

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "pol_c1518ec6fcaa",
+    "question": "New gym equipment?",
+    "options": [
+      {
+        "id": "opt_69a9a58738a1",
+        "text": "Yes, cardio",
+        "votes": 1
+      },
+      {
+        "id": "opt_1575ccba42a2",
+        "text": "Yes, weights",
+        "votes": 0
+      },
+      {
+        "id": "opt_581419b3c234",
+        "text": "No, save money",
+        "votes": 0
+      }
+    ],
+    "expiresAt": "2026-11-25T23:59:00",
+    "createdAt": "2026-11-18T20:52:08.605Z",
+    "votes": {
+      "usr_a8f8cc175fdf": "opt_69a9a58738a1"
+    },
+    "updatedAt": "2026-11-18T20:52:18.374Z"
+  }
+]

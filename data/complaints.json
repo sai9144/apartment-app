@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cmp_8833e80a231c",
+    "title": "Leaking tap",
+    "description": "Kitchen tap leaking since morning",
+    "category": "plumbing",
+    "priority": "high",
+    "photos": [],
+    "residentId": "usr_a8f8cc175fdf",
+    "residentName": "Resident One",
+    "apartment": "A-102",
+    "status": "open",
+    "assignedTo": null,
+    "createdAt": "2026-11-18T20:51:46.608Z",
+    "updatedAt": "2026-11-18T20:51:46.608Z"
+  }
+]

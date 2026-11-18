@@ -1,0 +1,22 @@
+[
+  {
+    "id": "usr_008295eafd06",
+    "name": "Test Admin",
+    "email": "admin@test.com",
+    "phone": "9876543210",
+    "apartment": "A-101",
+    "role": "admin",
+    "passwordHash": "$2a$10$hA71zY2CsE5fiATU2u9I8.w0CRoBkLHQhPBWlj2ziWaZzz1.Q5nwq",
+    "createdAt": "2026-11-18T20:50:18.483Z"
+  },
+  {
+    "id": "usr_a8f8cc175fdf",
+    "name": "Resident One",
+    "email": "resident1@test.com",
+    "phone": "9876543211",
+    "apartment": "A-102",
+    "role": "resident",
+    "passwordHash": "$2a$10$KgIWbd95DzJIovv62HPvK.ZxZBjFSarjPxXCUofL4pr6jm9xATK6a",
+    "createdAt": "2026-11-18T20:51:01.641Z"
+  }
+]
