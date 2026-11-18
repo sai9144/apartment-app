@@ -1,5 +1,5 @@
 // app.js - Green Valley Apartments PWA
-const API = '/api';
+const API = 'https://apartment-app-wu9y.onrender.com/api';
 let currentUser = null;
 let currentTab = 'dashboard';
 
